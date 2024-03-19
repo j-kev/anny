@@ -28,11 +28,6 @@ p {
   line-height: 1.5;
 }
 
-#message {
-  font-style: italic;
-  color: #888;
-}
-
 footer {
   text-align: center;
   padding: 10px;
