@@ -1,3 +1,43 @@
 body {
-  background-color: yellow;
+  background-color: #ffe08c;
+  margin: 0;
+  padding: 0;
 }
+
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: #ffd700;
+  color: #333;
+}
+
+main {
+  text-align: center;
+  padding: 40px;
+}
+
+main img {
+  width: 1024px; 
+  display: block;
+  margin: 0 auto; 
+  border: 5px solid darkorange;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+#message {
+  font-style: italic;
+  color: #888;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #ffd700;
+  color: #333;
+  margin-top: 40px;
+}
+
